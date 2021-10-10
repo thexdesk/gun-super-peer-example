@@ -10,7 +10,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "gun": "^0.9.993"
+    "gun": "^0.2020.1235"
   },
   "devDependencies": {},
   "repository": {
